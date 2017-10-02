@@ -1,5 +1,4 @@
 # Instagram_photo_viewer
 
-
-It is a PHP-based photo album which fetches data from Instagram and displays it on local machine.
+It is a PHP-based photo album which uses Instagram's public API and displays the results on webpage.
 
